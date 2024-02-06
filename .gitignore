@@ -181,5 +181,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+.vscode/
+.vscode/launch.json
+.vscode/settings.json
+
 # End of https://www.gitignore.io/api/linux,macos,python,pycharm,windows
 
