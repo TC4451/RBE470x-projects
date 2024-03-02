@@ -2,7 +2,7 @@
 import sys
 sys.path.insert(0, '../bomberman')
 # Import necessary stuff
-from Bomberman.entity import CharacterEntity
+from entity import CharacterEntity
 from colorama import Fore, Back
 import math
 import heapq
